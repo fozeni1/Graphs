@@ -1,0 +1,5 @@
+Graph is bipartite
+Max Matching Size: 2
+Matching Edges:
+0 - 3
+1 - 2

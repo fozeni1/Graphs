@@ -1,0 +1,12 @@
+Source: 0
+Sink: 4
+Max Flow: 15
+
+Edge Flows:
+0 -> 1: Flow = 10, Capacity = 10
+0 -> 2: Flow = 5, Capacity = 5
+1 -> 2: Flow = 5, Capacity = 15
+1 -> 3: Flow = 5, Capacity = 5
+2 -> 3: Flow = 0, Capacity = 10
+2 -> 4: Flow = 10, Capacity = 10
+3 -> 4: Flow = 5, Capacity = 10

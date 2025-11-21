@@ -1,0 +1,11 @@
+DIJKSTRA ALGORITHM:
+Path Length: 12
+Path: (0,0) (1,0) (2,0) (2,1) (2,2) (3,2) (3,3) 
+Explored: 100%
+Time: 0.03025ms
+
+A* ALGORITHM:
+Path Length: 12
+Path: (0,0) (1,0) (1,1) (1,2) (2,2) (2,3) (3,3) 
+Explored: 100%
+Time: 0.030917ms
